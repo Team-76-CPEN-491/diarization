@@ -1,0 +1,73 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 12.04s]:  Conversation recorded on January 1st, 2011 at 10.57 on channel 29.
+[18.44s - 22.56s]:  911 operator 1343, where is your emergency?
+[23.48s - 26.88s]:  I'm here at the police station, Monroe Falls.
+[27.44s - 27.92s]:  Okay.
+[28.92s - 29.24s]:  Yeah.
+[29.24s - 29.88s]:  What's wrong?
+[31.00s - 32.76s]:  I killed my sister.
+[33.20s - 34.10s]:  I'm turning myself in.
+[35.12s - 36.50s]:  Where did it happen at?
+[36.98s - 37.68s]:  At my house.
+[37.90s - 38.68s]:  Where do you live at?
+[39.38s - 40.94s]:  247 Monroe Falls Avenue.
+[41.96s - 43.02s]:  How'd you kill her?
+[43.76s - 44.60s]:  I strangled her.
+[46.64s - 47.98s]:  What apartment number?
+[48.90s - 50.62s]:  247 Monroe Falls.
+[51.84s - 53.22s]:  When did you do this?
+[53.96s - 55.20s]:  I just did it this morning.
+[56.06s - 56.96s]:  How old's your sister?
+[57.38s - 58.50s]:  She's 32.
+[60.00s - 62.00s]:  How did you strangle her?
+[62.00s - 67.00s]:  I just, I got angry and I strangled her.
+[67.00s - 68.00s]:  We had an argument.
+[68.00s - 75.00s]:  She said she's gonna hurt my mom and everything and she's about to hurt my mom and everything
+[75.00s - 78.00s]:  and I just lost it.
+[78.00s - 81.00s]:  What's your last name, hon?
+[81.00s - 82.00s]:  Hanley.
+[82.00s - 83.00s]:  Hanley?
+[83.00s - 84.00s]:  Yeah, A-P-N-L-Y.
+[84.00s - 85.00s]:  What's your last name?
+[85.00s - 86.00s]:  Hanley.
+[86.00s - 87.00s]:  Hanley?
+[87.00s - 88.00s]:  Yeah.
+[88.00s - 89.00s]:  What's your last name?
+[89.00s - 90.00s]:  Hanley.
+[90.00s - 94.00s]:  Do you have your, is this your cell phone that you're calling on?
+[94.00s - 97.00s]:  Yes, I'm here at the police station at Monroe Falls.
+[97.00s - 98.00s]:  Okay.
+[112.00s - 113.00s]:  You okay?
+[115.00s - 116.00s]:  Are you okay?
+[117.00s - 118.00s]:  What's your first name?
+[118.00s - 119.00s]:  Larry.
+[120.00s - 122.00s]:  Your first name's Larry?
+[122.00s - 123.00s]:  Yes.
+[123.00s - 125.00s]:  Okay, Larry, I'm just gonna keep you on the line.
+[125.00s - 129.00s]:  Yeah, I'm, I'm, I'm, I'm frantic, I'm just panicked.
+[129.00s - 132.00s]:  I've just lost it.
+[132.00s - 133.00s]:  Okay.
+[133.00s - 136.00s]:  Are you on any medication of any sort?
+[136.00s - 139.00s]:  I was, yeah, I was taking my Steridol and stuff like that.
+[139.00s - 142.00s]:  What's that for, hon?
+[142.00s - 144.00s]:  What's that for?
+[144.00s - 145.00s]:  What's that for?
+[145.00s - 146.00s]:  I don't know.
+[146.00s - 147.00s]:  I'm taking my meds.
+[147.00s - 148.00s]:  I don't know.
+[148.00s - 148.60s]:  Is this your bed?
+[155.92s - 158.96s]:  I'm gonna go call the police.
+[166.00s - 168.00s]:  Okay, we got the BTS.
+[168.00s - 169.00s]:  Yeah.
+[169.00s - 169.96s]:  You can call him.
+[169.96s - 170.96s]:  Yeah.
+[170.96s - 172.96s]:  Okay, I'm gonna go call the police.
+[172.96s - 174.00s]:  Okay.
+[174.00s - 175.00s]:  This is some good stuff.
+[175.00s - 176.00s]:  Thank you.
+[176.00s - 177.00s]:  Thank you.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+
+Give the output in a csv file named call_108.csv with this column format: [start_time], [end_time], [speaker], [phrase].

@@ -1,0 +1,69 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 1.44s]:  Are you out of the house yet?
+[1.96s - 2.40s]:  No.
+[2.64s - 3.64s]:  All right, get out of the house.
+[4.00s - 4.74s]:  We can't.
+[6.00s - 7.24s]:  There's nothing open.
+[7.30s - 8.98s]:  If I open the door, it's too much smoke.
+[9.10s - 9.40s]:  Okay.
+[9.98s - 10.64s]:  All right.
+[11.40s - 12.06s]:  What's your name?
+[12.66s - 13.02s]:  Huh?
+[13.22s - 13.78s]:  What's your name?
+[13.86s - 14.02s]:  Quick.
+[14.46s - 15.34s]:  I'm DJ Fry.
+[19.58s - 20.28s]:  All right.
+[21.36s - 22.78s]:  Try to get out of the house if you can.
+[27.34s - 28.22s]:  Sorry, you still there?
+[28.70s - 29.10s]:  Yes.
+[29.10s - 30.62s]:  Okay, I'm going to stay on the phone with you, all right?
+[30.84s - 31.20s]:  Okay.
+[33.80s - 34.36s]:  How far?
+[34.48s - 35.00s]:  Two traps.
+[37.70s - 38.06s]:  Okay.
+[38.50s - 40.52s]:  Honey, are you on the first floor or second floor?
+[40.58s - 41.20s]:  Where in the house are you?
+[41.20s - 41.86s]:  Second floor.
+[41.98s - 42.76s]:  You're on the second floor?
+[43.16s - 43.48s]:  Yes.
+[43.66s - 47.36s]:  Okay, if I'm looking at your house, are you going to be on the left or the right side?
+[48.40s - 49.20s]:  I'm on the...
+[50.28s - 51.94s]:  I'm all the way at the top.
+[52.08s - 53.12s]:  You're all the way at the top?
+[53.26s - 53.52s]:  Yes.
+[53.54s - 54.94s]:  Okay, you're on the second floor.
+[55.40s - 58.02s]:  If I come up your stairs, honey, which way do I turn to get to you?
+[58.02s - 60.62s]:  You're up the stairs.
+[60.96s - 61.28s]:  Uh-huh.
+[61.88s - 64.84s]:  I'm in the room that has the door closed.
+[65.08s - 66.44s]:  You're in the room that has the door closed.
+[66.48s - 67.72s]:  All the other rooms have doors open?
+[68.12s - 68.44s]:  Yes.
+[68.60s - 68.86s]:  Okay.
+[69.00s - 70.62s]:  Can you get to a window and open your window?
+[70.98s - 71.30s]:  Yes.
+[71.54s - 72.52s]:  Is the window open now?
+[72.80s - 73.12s]:  Yes.
+[73.38s - 75.70s]:  Can you see, is it in the front of the house or the back of the house?
+[76.08s - 77.16s]:  I'm in the back.
+[77.24s - 78.56s]:  I'm like on the side of the house.
+[78.64s - 79.14s]:  Which side?
+[79.18s - 81.86s]:  If I'm looking at your house from the front or the right or the left side, sweetie?
+[82.22s - 82.96s]:  I'm on the right.
+[83.12s - 83.40s]:  Okay.
+[83.60s - 84.36s]:  Hold on one second.
+[86.32s - 87.08s]:  Y'all be careful.
+[87.08s - 88.00s]:  Y'all be careful.
+[88.38s - 88.84s]:  The baby.
+[89.20s - 89.94s]:  Okay, ma'am.
+[90.12s - 90.44s]:  All right.
+[91.42s - 92.50s]:  Okay, how many people in the room?
+[93.48s - 95.48s]:  One, two, three, four, five.
+[95.66s - 96.02s]:  Five?
+[96.30s - 97.54s]:  We got five people in the room?
+[97.96s - 98.32s]:  Yes.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+
+Give the output in a csv file named call_20.csv with this column format: [start_time], [end_time], [speaker], [phrase].

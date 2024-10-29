@@ -1,0 +1,34 @@
+start_time,end_time,speaker,phrase
+0.0,10.0,911 Operator,"911, do you need police, fire, ambulance?"
+10.0,11.0,Caller,"Oh, police."
+11.0,13.0,911 Operator,Where do you need the police at?
+13.0,16.0,Caller,I want to tell you what's happening first. I just killed my wife.
+16.0,21.0,911 Operator,"I didn't know where you're at, where you need the police at, so I can transfer you to them."
+21.0,24.0,Caller,"Oh, I'm at 187 Gull Drive."
+24.0,27.0,911 Operator,"187 Gull Drive, is this a house or an apartment?"
+27.0,29.0,Caller,It's a trailer.
+29.0,32.0,911 Operator,Stay on the line one moment for the Elyria Police.
+32.0,34.0,Caller,"I'm not staying long, so..."
+34.0,38.0,911 Operator,Stay on the line for the Elyria Police. Calling from 309-5069.
+38.0,40.0,Caller,Yup.
+40.0,42.0,Unknown,Elyria Police Department.
+42.0,45.0,Caller,"Yeah, I... Hello?"
+45.0,47.0,Unknown,"Yes, Elyria Police Department."
+47.0,49.0,Caller,"I just, uh..."
+49.0,53.0,Unknown,Your phone is cutting out. I'm only hearing about every second word. What's going on?
+53.0,56.0,Caller,I don't know. I'm... Hello?
+56.0,58.0,Unknown,Elyria Police Department.
+58.0,59.0,Caller,Hello?
+59.0,62.0,Caller,Let me call you back.
+62.0,64.0,911 Operator,You have a 911 emergency.
+64.0,68.0,Unknown,Elyria Police Department.
+68.0,70.0,Caller,Hello?
+70.0,72.0,Unknown,Elyria Police Department.
+72.0,74.0,Caller,Hello?
+74.0,76.0,Caller,Hello?
+76.0,78.0,Caller,Hello?
+78.0,80.0,Caller,Hello?
+80.0,82.0,Caller,Hello?
+82.0,84.0,Caller,Hello?
+84.0,86.0,Caller,Hello?
+86.0,88.0,Caller,Hello?

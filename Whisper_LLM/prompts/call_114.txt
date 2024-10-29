@@ -1,0 +1,91 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 6.30s]:  Friday, January 28, 2011. The time, 1013 AM.
+[6.30s - 8.30s]:  Call 911.
+[8.30s - 10.30s]:  Hello?
+[10.30s - 12.30s]:  Hello? Hello 911?
+[12.30s - 16.30s]:  I need help.
+[16.30s - 18.30s]:  What happened? Can you get him to call?
+[18.30s - 20.30s]:  Call 911.
+[20.30s - 22.30s]:  Does he need a...
+[22.30s - 24.30s]:  He needs to run away.
+[24.30s - 27.30s]:  Does he need an ambulance or police?
+[27.30s - 29.30s]:  Okay.
+[29.30s - 31.30s]:  Ambulance or police?
+[31.30s - 33.30s]:  Ma'am?
+[33.30s - 35.30s]:  Hello?
+[35.30s - 43.30s]:  Friday, January 28, 2011. The time, 1014 AM.
+[59.30s - 61.30s]:  Hello?
+[61.30s - 63.30s]:  Hi, can I talk to your dad?
+[63.30s - 65.30s]:  Daddy, help!
+[65.30s - 67.30s]:  Okay, does he need an ambulance or police?
+[67.30s - 69.30s]:  Okay.
+[69.30s - 71.30s]:  No, ask him. Does he need police?
+[71.30s - 75.30s]:  If anybody gets right to you, you have to come right away. Okay?
+[75.30s - 78.30s]:  Ask him if he needs police or ambulance.
+[78.30s - 80.30s]:  It's okay. It's okay.
+[80.30s - 82.30s]:  No, can I talk to him?
+[82.30s - 85.30s]:  Just calm down. I'm talking. It's okay.
+[85.30s - 87.30s]:  Does he need an ambulance?
+[87.30s - 90.30s]:  I can't talk to you. Bye.
+[90.30s - 92.80s]:  Okay, stay on the phone. Stay on the phone with me, okay?
+[92.80s - 99.30s]:  Friday, January 28, 2011. The time, 1015 AM.
+[99.30s - 104.30s]:  Hello?
+[104.30s - 108.30s]:  Hello?
+[108.30s - 110.30s]:  Hello?
+[110.30s - 112.30s]:  Hello?
+[112.30s - 114.30s]:  Hello?
+[114.30s - 115.30s]:  Hello?
+[115.30s - 116.30s]:  Hello?
+[116.30s - 118.30s]:  Hello?
+[118.30s - 119.30s]:  Oh.
+[119.30s - 120.30s]:  Stay on the phone.
+[120.30s - 121.30s]:  Wait.
+[121.30s - 122.80s]:  Sir? Sir, do you need an ambulance?
+[122.80s - 124.06s]:  They're on the way!
+[124.06s - 126.70s]:  I just went to get a
+[126.70s - 128.30s]:  or you have to come. You really need help.
+[128.30s - 129.30s]:  Okay, the police.
+[129.30s - 131.30s]:  I hope I don't step in this mess.
+[131.30s - 134.30s]:  Can you unlock the door for me?
+[134.30s - 135.30s]:  Okay.
+[135.30s - 138.30s]:  Can you stay on the phone? Keep the phone open.
+[138.30s - 140.30s]:  Put the phone down.
+[140.30s - 144.30s]:  Put the phone down and go open the door, okay?
+[144.30s - 145.30s]:  Okay.
+[145.30s - 146.30s]:  Hello?
+[146.30s - 147.30s]:  Aaron?
+[147.30s - 148.30s]:  Aaron!
+[148.30s - 149.30s]:  Come in!
+[149.30s - 150.30s]:  What's wrong?
+[150.30s - 151.30s]:  What's the...
+[151.30s - 152.30s]:  Oh, yeah.
+[152.30s - 161.30s]:  I was trying to express that I had medics come in two or three.
+[161.30s - 166.30s]:  Trying to work with...
+[166.30s - 168.30s]:  What happened?
+[168.30s - 174.30s]:  It's just a little...
+[174.30s - 181.30s]:  I'm trying to work on a piece of wood, a piece of carbon glass.
+[181.30s - 184.30s]:  Everybody, we'll do this over your dead.
+[184.30s - 185.30s]:  All right.
+[185.30s - 186.30s]:  Just put pressure on it, okay?
+[186.30s - 187.30s]:  Did you get any towels or anything?
+[187.30s - 188.30s]:  We have one right there.
+[188.30s - 189.30s]:  Thanks.
+[189.30s - 190.30s]:  Okay.
+[190.30s - 191.30s]:  I'm going to go ahead and get this done.
+[191.30s - 192.30s]:  I'm going to go ahead and get this done.
+[192.30s - 193.30s]:  Okay.
+[193.30s - 194.30s]:  Okay.
+[194.30s - 195.30s]:  Okay.
+[195.30s - 196.30s]:  Okay.
+[196.30s - 197.30s]:  Okay.
+[197.30s - 198.30s]:  Okay.
+[198.30s - 199.30s]:  Okay.
+[199.30s - 200.30s]:  Okay.
+[200.30s - 201.30s]:  Okay.
+[201.30s - 202.30s]:  Okay.
+[202.30s - 203.30s]:  Okay.
+[203.30s - 204.30s]:  Okay.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+Give the output in a csv file with this format  [start_time], [end_time], [speaker], [phrase].
