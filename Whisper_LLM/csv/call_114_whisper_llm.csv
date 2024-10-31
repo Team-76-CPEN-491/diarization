@@ -1,0 +1,75 @@
+start_time,end_time,speaker,phrase
+0.0,6.3,Narrator,"Friday, January 28, 2011. The time, 1013 AM."
+6.3,8.3,911 Operator,Call 911.
+8.3,10.3,Caller,Hello?
+10.3,12.3,Caller,Hello? Hello 911?
+12.3,16.3,Caller,I need help.
+16.3,18.3,911 Operator,What happened? Can you get him to call?
+18.3,20.3,Caller,Call 911.
+20.3,22.3,911 Operator,Does he need a...
+22.3,24.3,Caller,He needs to run away.
+24.3,27.3,911 Operator,Does he need an ambulance or police?
+27.3,29.3,Caller,Okay.
+29.3,31.3,911 Operator,Ambulance or police?
+31.3,33.3,911 Operator,Ma'am?
+33.3,35.3,911 Operator,Hello?
+35.3,43.3,Narrator,"Friday, January 28, 2011. The time, 1014 AM."
+59.3,61.3,Caller,Hello?
+61.3,63.3,911 Operator,"Hi, can I talk to your dad?"
+63.3,65.3,Caller,"Daddy, help!"
+65.3,67.3,911 Operator,"Okay, does he need an ambulance or police?"
+67.3,69.3,Caller,Okay.
+69.3,71.3,911 Operator,"No, ask him. Does he need police?"
+71.3,75.3,911 Operator,"If anybody gets right to you, you have to come right away. Okay?"
+75.3,78.3,911 Operator,Ask him if he needs police or ambulance.
+78.3,80.3,911 Operator,It's okay. It's okay.
+80.3,82.3,911 Operator,"No, can I talk to him?"
+82.3,85.3,911 Operator,Just calm down. I'm talking. It's okay.
+85.3,87.3,911 Operator,Does he need an ambulance?
+87.3,90.3,Caller,I can't talk to you. Bye.
+90.3,92.8,911 Operator,"Okay, stay on the phone. Stay on the phone with me, okay?"
+92.8,99.3,Narrator,"Friday, January 28, 2011. The time, 1015 AM."
+99.3,104.3,Caller,Hello?
+104.3,108.3,Caller,Hello?
+108.3,110.3,Caller,Hello?
+110.3,112.3,Caller,Hello?
+112.3,114.3,Caller,Hello?
+114.3,115.3,Caller,Hello?
+115.3,116.3,Caller,Hello?
+116.3,118.3,Caller,Hello?
+118.3,119.3,Caller,Oh.
+119.3,120.3,911 Operator,Stay on the phone.
+120.3,121.3,Caller,Wait.
+121.3,122.8,911 Operator,"Sir? Sir, do you need an ambulance?"
+122.8,124.06,911 Operator,They're on the way!
+124.06,126.7,Caller,I just went to get a
+126.7,128.3,911 Operator,or you have to come. You really need help.
+128.3,129.3,Caller,"Okay, the police."
+129.3,131.3,Caller,I hope I don't step in this mess.
+131.3,134.3,911 Operator,Can you unlock the door for me?
+134.3,135.3,Caller,Okay.
+135.3,138.3,911 Operator,Can you stay on the phone? Keep the phone open.
+138.3,140.3,911 Operator,Put the phone down.
+140.3,144.3,911 Operator,"Put the phone down and go open the door, okay?"
+144.3,145.3,Caller,Okay.
+145.3,146.3,911 Operator,Hello?
+146.3,147.3,Caller,Aaron?
+147.3,148.3,Caller,Aaron!
+148.3,149.3,Caller,Come in!
+149.3,150.3,911 Operator,What's wrong?
+150.3,151.3,Caller,What's the...
+151.3,152.3,Caller,"Oh, yeah."
+152.3,161.3,Caller,I was trying to express that I had medics come in two or three.
+161.3,166.3,Caller,Trying to work with...
+166.3,168.3,911 Operator,What happened?
+168.3,174.3,Caller,It's just a little...
+174.3,181.3,Caller,"I'm trying to work on a piece of wood, a piece of carbon glass."
+181.3,184.3,Unknown,"Everybody, we'll do this over your dead."
+184.3,185.3,911 Operator,All right.
+185.3,186.3,911 Operator,"Just put pressure on it, okay?"
+186.3,187.3,911 Operator,Did you get any towels or anything?
+187.3,188.3,Caller,We have one right there.
+188.3,189.3,911 Operator,Thanks.
+189.3,190.3,Caller,Okay.
+190.3,193.3,911 Operator,I'm going to go ahead and get this done.
+193.3,204.3,Unknown,Okay.

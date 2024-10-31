@@ -37,7 +37,7 @@ def generate_prompt_string(segments, audio_name):
         prompt += f"[{segment['start']:.2f}s - {segment['end']:.2f}s]: {segment['text']}\n"
 
     prompt += "\nLabel each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.\n"
-    prompt += f"\nGive the output in a csv file named {audio_name}.csv with this column format: [start_time], [end_time], [speaker], [phrase].\n"
+    prompt += f"\nGive the output in a csv file named {audio_name}_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].\n"
     return prompt
 
 def save_prompt_to_file(audio_name, prompt):

@@ -1,0 +1,153 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 3.78s]:  adding that as horrific as this was, at least the kid didn't die.
+[4.50s - 7.48s]:  You don't get too many second chances when it comes to a train.
+[13.36s - 21.52s]:  In August 2016, an 8-year-old boy called 911 after a woman attempted to kidnap his 2-year-old brother in Glendale.
+[22.26s - 28.60s]:  While the boy's mother initially called the police, the dispatcher asked the woman to pass the phone on to her older son.
+[28.60s - 35.60s]:  The boy was up to the task and described in great detail what happened at the scene to the 911 dispatcher.
+[36.38s - 39.80s]:  The Glendale Police Department released the recording of the child's call.
+[58.60s - 60.18s]:  The child's name is Mykaela's and the middle name is
+[60.28s - 67.48s]:  Mykaela Car 활
+[68.02s - 87.68s]:  The two children have been publicly listed under Free Source
+[88.60s - 90.98s]:  just said, you have a...
+[90.98s - 92.18s]:  She's not alone at all.
+[92.86s - 93.50s]:  There were angels.
+[94.10s - 97.06s]:  It was a guy
+[97.06s - 98.76s]:  and he had long hair.
+[99.34s - 101.28s]:  He said, you have a beautiful
+[101.28s - 103.12s]:  kid. And then she was walking,
+[103.36s - 104.68s]:  sneaking past us.
+[104.92s - 107.28s]:  She was trying to get the baby out of our hands.
+[108.30s - 109.30s]:  Okay, hold on.
+[109.36s - 111.32s]:  Someone tried to steal your brother?
+[111.58s - 113.30s]:  My mom said, excuse me?
+[113.54s - 115.10s]:  Someone tried to take your little brother?
+[115.90s - 116.06s]:  Yeah.
+[116.06s - 119.10s]:  Who else is with you? Who else can I talk to there?
+[121.16s - 122.16s]:  He holds him.
+[122.74s - 125.66s]:  And then she hit my mom.
+[125.90s - 126.20s]:  Okay.
+[127.12s - 129.26s]:  And then I said, let my
+[129.26s - 131.36s]:  brother go very strongly.
+[132.06s - 133.30s]:  And I pushed my
+[133.30s - 134.84s]:  little brother so strong
+[134.84s - 136.98s]:  and I hit her on her finger
+[136.98s - 138.64s]:  and her finger
+[138.64s - 140.72s]:  let go and then she ran and
+[140.72s - 142.32s]:  she put her speed
+[142.32s - 144.98s]:  100%.
+[145.58s - 146.04s]:  Okay.
+[146.06s - 146.18s]:  Okay.
+[146.82s - 148.56s]:  Where's your little brother right now?
+[149.60s - 151.50s]:  Over here. He's with me.
+[151.76s - 151.92s]:  Okay.
+[152.30s - 154.46s]:  Did this person have a car?
+[155.46s - 155.98s]:  Yes.
+[156.32s - 157.12s]:  What kind of car?
+[158.66s - 159.22s]:  What?
+[159.40s - 161.22s]:  What kind of car did this person drive?
+[162.52s - 164.60s]:  He drives a gray car.
+[164.74s - 165.94s]:  It's a silver car, right?
+[166.90s - 168.50s]:  Yeah. Small gray car.
+[169.62s - 170.14s]:  Okay.
+[170.34s - 172.14s]:  Your brother's with you right now, right?
+[172.18s - 172.80s]:  How old are you?
+[175.16s - 175.60s]:  I'm...
+[175.60s - 176.32s]:  He's three.
+[176.32s - 179.20s]:  He's three and I'm eight and a half.
+[179.20s - 180.28s]:  You're eight years old?
+[181.24s - 182.16s]:  Eight and a half.
+[186.76s - 187.06s]:  Okay.
+[187.36s - 188.12s]:  Was it a man?
+[189.42s - 190.70s]:  It was a man.
+[191.12s - 192.38s]:  It looked like a lady.
+[192.98s - 194.58s]:  We weren't sure.
+[195.28s - 196.14s]:  Her voice
+[196.14s - 199.08s]:  looked like the girl but
+[199.08s - 201.06s]:  he looked like a man.
+[201.28s - 203.08s]:  Okay. I want to know this right now.
+[203.16s - 205.46s]:  Can you tell me, does this person have dark skin
+[205.46s - 206.26s]:  or light skin?
+[207.26s - 208.24s]:  Light skin.
+[208.64s - 210.42s]:  Okay. Do they look like they're Hispanic?
+[210.88s - 211.76s]:  Do you know what that means?
+[212.20s - 212.48s]:  No.
+[212.48s - 212.64s]:  No.
+[214.20s - 215.92s]:  He's talking English.
+[216.24s - 218.40s]:  Okay. Do you know on that
+[218.40s - 220.36s]:  silver car, hon, can you tell me
+[220.36s - 221.68s]:  was it...
+[221.68s - 223.58s]:  Was the car...
+[223.58s - 225.58s]:  How many doors did the car have on it?
+[227.30s - 228.66s]:  We didn't see
+[228.66s - 230.56s]:  which car it was but we know
+[230.56s - 232.70s]:  the color and how speedy
+[232.70s - 233.58s]:  it was. Okay.
+[233.98s - 234.68s]:  And you did...
+[235.46s - 237.70s]:  You did a great job trying to push him away.
+[237.70s - 239.32s]:  I'm really glad you did that.
+[240.06s - 241.14s]:  Excuse me. Yes.
+[241.98s - 242.32s]:  Okay.
+[243.12s - 244.66s]:  Are you sending
+[244.66s - 247.00s]:  one in John Marshall?
+[247.08s - 248.44s]:  I sent one in Armenia.
+[249.24s - 250.04s]:  I'm...
+[250.04s - 254.70s]:  And send
+[254.70s - 257.86s]:  one at John Marshall
+[257.86s - 259.78s]:  so they can look after a guard.
+[259.98s - 262.02s]:  Yeah, we're going to look. We're going to keep a lookout.
+[262.54s - 263.88s]:  Was anybody else with you
+[263.88s - 264.98s]:  or were you by yourself?
+[265.46s - 267.22s]:  Me and my mom
+[267.22s - 268.86s]:  and my little brother.
+[269.52s - 271.98s]:  We were guarding my little brother
+[271.98s - 274.16s]:  so she couldn't get it out.
+[274.74s - 275.48s]:  Can you tell me...
+[275.48s - 277.84s]:  Can you remember what this lady was wearing or man?
+[279.00s - 279.60s]:  Do you remember?
+[281.66s - 282.26s]:  Yeah.
+[282.50s - 283.88s]:  Really bad. He was like six.
+[285.12s - 286.02s]:  Do you...
+[286.02s - 288.26s]:  Do you know what the lady was wearing?
+[289.40s - 290.88s]:  A gray shirt
+[290.88s - 293.70s]:  and gray jeans.
+[294.66s - 295.04s]:  Okay.
+[295.04s - 296.34s]:  Was it like a...
+[296.34s - 298.78s]:  Do you know if it looked like a jacket or was it a shirt?
+[300.10s - 300.90s]:  It was a sweater.
+[301.68s - 302.28s]:  What's that?
+[303.22s - 304.28s]:  It was a sweater.
+[312.98s - 313.38s]:  Okay.
+[317.84s - 319.28s]:  So they were wearing gray sweater.
+[319.36s - 320.32s]:  Do you know what color pants?
+[321.76s - 322.44s]:  A jeep.
+[322.44s - 322.98s]:  Okay.
+[322.98s - 324.88s]:  Okay.
+[325.04s - 325.98s]:  Do you remember wearing trousers?
+[325.98s - 327.52s]:  That's immediately a 2019 one- ratio.
+[328.32s - 329.50s]:  You have to better...
+[330.08s - 331.18s]:  Got out of here or we'll...
+[333.76s - 335.42s]:  What are you saying I don't.
+[342.74s - 343.80s]:  That's what, you see.
+[345.18s - 345.64s]:  I'm not...
+[345.64s - 347.46s]:  You're wearing a suit and shorts.
+[347.46s - 349.38s]:  Have Everest.
+[349.44s - 351.40s]:  To be honest I have been wearing this all my life.
+[351.40s - 352.98s]:  You can never even know where you're weakness.
+[352.98s - 353.54s]:  I mean-
+[353.54s - 353.92s]:  Yeah.
+[353.92s - 354.38s]:  Well, I've been in the doubts for so long.
+[354.38s - 359.52s]:  The same attacker approached the pair and grabbed the child out of the stroller.
+[359.52s - 379.06s]:  Neighbors were shocked to hear about Lisa's attempted kidnapping.
+[379.06s - 382.66s]:  Arnold's attempts to kidnap the child were unsuccessful.
+[382.66s - 385.90s]:  The mother intervened and saved her son.
+[385.90s - 389.12s]:  Two days later, the woman was arrested.
+[389.12s - 393.96s]:  According to the Los Angeles District Attorney's Office, the 50-year-old was charged with two
+[393.96s - 397.12s]:  felony counts of attempted kidnapping.
+[397.12s - 401.90s]:  Arnold pleaded not guilty to two counts of attempted kidnapping.
+[401.90s - 406.00s]:  The judge hearing the case ruled that the defendant fit the legal definition of insanity
+[406.00s - 409.10s]:  at the time of the crimes based on two doctors' reports.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+
+Give the output in a csv file named 911 Call - 003 She Tried to Kidnap a Toddler_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].

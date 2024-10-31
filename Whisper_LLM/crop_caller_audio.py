@@ -8,11 +8,12 @@ def parse_time(time_input):
     Converts time input to milliseconds. Accepts:
     - Time string in the format 'MM:SS.mmm' (e.g., '02:14.250').
     - Floating-point seconds as input.
-    """
-    if isinstance(time_input, str):
+    # """
+    if isinstance(time_input, str) and len(time_input.split(':')) > 1:
         try:
             # Split the time string into minutes and seconds with milliseconds
             minutes, seconds = time_input.split(':')
+
             minutes = int(minutes)
             seconds = float(seconds)  # Handle seconds with milliseconds
             
@@ -21,7 +22,7 @@ def parse_time(time_input):
         except (ValueError, IndexError) as e:
             raise ValueError(f"Invalid time format: {time_input}") from e
     else:
-        # Assume input is already in seconds if not a string
+        #Assume input is already in seconds if not a string
         total_seconds = float(time_input)
 
     # Convert to milliseconds and return as an integer
@@ -64,7 +65,8 @@ def extract_911_audio(csv_file, input_audio_file):
 
     # Prepare the output path and filename
     os.makedirs("audios_caller", exist_ok=True)
-    original_name, original_ext = os.path.splitext(os.path.basename(input_audio_file))
+    original_ext = os.path.splitext(os.path.basename(input_audio_file))[1]
+    original_name = os.path.splitext(os.path.basename(csv_file))[0]
     output_audio_file = os.path.join("audios_caller", f"{original_name}_caller{original_ext}")
 
     # Export the result

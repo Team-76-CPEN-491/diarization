@@ -1,72 +1,38 @@
-start_time,end_time,speaker
-0.14,2.1500000000000004,Other
-2.22,5.91,Other
-4.22,11.27,Other
-7.26,15.19,Other
-8.22,17.19,Other
-9.18,18.95,Other
-9.98,22.630000000000003,Other
-14.3,29.67,Caller
-17.58,35.75,Caller
-19.26,38.790000000000006,Other
-19.74,41.51,Other
-22.54,45.43,Other
-23.66,48.15,Caller
-24.78,50.39,Caller
-25.9,52.709999999999994,Caller
-27.5,55.35,Other
-28.94,58.95,Caller
-31.02,62.55,Caller
-32.14,66.39,Caller
-35.82,72.31,Other
-36.94,74.63,Caller
-37.9,76.71,Other
-39.5,80.63,Caller
-42.22,85.43,Other
-44.38,89.03,Caller
-47.1,94.47,Other
-47.58,95.75,Other
-49.26,98.94999999999999,Caller
-49.9,100.47,Caller
-52.3,105.42999999999999,Other
-53.98,108.47,Caller
-55.1,110.55000000000001,Caller
-56.14,113.35,Other
-57.98,116.71,Caller
-63.26,127.75,Other
-64.94,130.23,Caller
-65.66,131.67,Caller
-66.54,133.51000000000002,Caller
-67.74,137.02999999999997,Caller
-73.42,147.11,Caller
-73.9,149.27,Caller
-76.06,155.43,Caller
-79.82,161.19,Caller
-84.22,169.43,Other
-85.66,171.91,Caller
-86.86,174.47,Other
-87.98,177.03,Caller
-90.78,184.79000000000002,Other
-94.3,190.07,Caller
-96.62,193.99,Caller
-112.7,226.07,Other
-115.66,232.14999999999998,Other
-116.94,234.95,Other
-118.7,237.99,Caller
-120.22,241.67000000000002,Other
-121.74,243.99,Caller
-123.02,248.31,Other
-125.74,253.10999999999999,Caller
-127.58,256.15,Caller
-129.66,260.71,Caller
-131.74,264.07000000000005,Other
-133.74,268.71000000000004,Other
-135.18,271.35,Other
-136.62,275.59000000000003,Caller
-139.18,279.35,Other
-142.7,286.39,Other
-147.02,294.31000000000006,Caller
-147.58,295.43000000000006,Caller
-148.22,296.71000000000004,Caller
-165.58,332.39,Other
-167.42,335.03,Other
+start_time,end_time,speaker,phrase
+00:00.14,00:12.20,Narrator,conversation recorded on january first two thousand and eleven at ten fifty seven on channel twenty nine
+00:19.20,00:19.68,Caller,nine one
+00:19.76,00:21.80,911 Operator,one operator thirteen forty three where
+00:21.84,00:26.84,Caller,is your emergency i here at the po i'm here at the police station al falls
+00:27.48,00:27.68,911 Operator,ok
+00:28.92,00:33.96,Caller,yah what's wrong i told my sister i'm turn yself in
+00:35.40,00:36.36,911 Operator,where did it happen a
+00:37.32,00:37.60,Caller,house
+00:37.80,00:38.68,911 Operator,where do you live at
+00:39.12,00:41.04,Caller,tw forty seven rofall avenue
+00:42.16,00:43.04,911 Operator,how did you kill her
+00:43.64,00:44.56,Caller,i strangled her
+00:46.92,00:48.04,911 Operator,what apartment number
+00:48.60,00:50.52,Caller,two forty seven f fall
+00:52.20,00:53.04,911 Operator,when did you do this
+00:53.88,00:55.20,Caller,i just did this morning
+00:56.00,00:57.00,911 Operator,how old's your sister
+00:57.96,00:58.48,Caller,thirty two
+01:03.12,01:04.32,911 Operator,how did you strangler
+01:04.84,01:21.12,Caller,i just i got angry and i i strangled her we had an argument she said she's going to's going to hurt my mom and everything and she does to hurt my mom and everything and i just i just lost it
+01:23.88,01:24.92,911 Operator,what's your last name on
+01:25.60,01:26.04,Caller,hemley
+01:26.88,01:27.36,911 Operator,hanley
+01:28.16,01:28.40,Caller,a t
+01:28.96,01:33.64,911 Operator,wif do you have it your is this your cell phone that you're calling on
+01:34.20,01:37.36,Caller,yes i'm here at the police station moroe falls
+01:37.80,01:38.08,Narrator,okay
+01:52.84,01:57.84,911 Operator,okay are you okay what's your first name
+01:58.64,01:58.96,Caller,larry
+02:00.20,02:01.28,911 Operator,your first name's larry
+02:01.80,02:02.00,Caller,yes
+02:02.96,02:05.08,911 Operator,okay larry i'm just gonn to keep you on the line
+02:06.16,02:10.84,Caller,i i'm frantic i'm just tenic of them i' just wotched it
+02:11.84,02:15.88,911 Operator,okay are you on any medication of any sort
+02:16.48,02:18.60,Caller,oh you tkre spiritial and stuff like that
+02:19.00,02:23.20,911 Operator,what's that for what's that for
+02:45.60,02:46.64,Caller,and of recording

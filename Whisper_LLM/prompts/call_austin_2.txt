@@ -1,0 +1,81 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 5.00s]:  Austin, did you please fire EMS and mental health services?
+[5.00s - 10.00s]:  Austin, did you please fire EMS and mental health services?
+[10.00s - 15.00s]:  No, they stole my truck and they fucking crashed into it right now.
+[15.00s - 17.00s]:  Who did this?
+[17.00s - 21.00s]:  Wait, they stole your truck and crashed your truck? Is that what you're saying?
+[21.00s - 23.00s]:  Yes, yes.
+[23.00s - 27.00s]:  Okay, where is the address in your center section that you're at right now?
+[27.00s - 32.00s]:  It's right here on Slaughter Lane. Motherfucker.
+[32.00s - 35.00s]:  Slaughter and what?
+[35.00s - 39.00s]:  Slaughter and I-35.
+[39.00s - 42.00s]:  Fuck.
+[42.00s - 45.00s]:  Do you have the camera?
+[45.00s - 46.00s]:  I saw that.
+[46.00s - 50.00s]:  Okay, is it on 35, the northbound side or the southbound side?
+[50.00s - 53.00s]:  I'm trying to fight people in the middle of the street.
+[53.00s - 56.00s]:  Is it on the northbound side or the southbound side?
+[56.00s - 57.00s]:  Southbound.
+[57.00s - 59.00s]:  Okay, what is the address?
+[59.00s - 62.00s]:  What are you asking? I'm sorry.
+[62.00s - 67.00s]:  Is it on the northbound? Go ahead, you said 100 East Slaughter?
+[67.00s - 71.00s]:  Yeah, that's the intersection.
+[71.00s - 79.00s]:  It is on the I-35 on the next to the U-Haul.
+[79.00s - 84.00s]:  I don't know if it's north or south, but yeah.
+[84.00s - 86.00s]:  Okay, so it was in just a moment.
+[86.00s - 89.00s]:  Is there more than one vehicle involved?
+[89.00s - 94.00s]:  He crashed at least 10 cars right now.
+[94.00s - 101.00s]:  Okay, so you said it crashed into about 10 cars?
+[101.00s - 103.00s]:  Yeah.
+[103.00s - 110.00s]:  Okay, bear with me just a moment.
+[110.00s - 111.00s]:  Okay.
+[111.00s - 112.00s]:  Okay.
+[112.00s - 113.00s]:  Okay.
+[113.00s - 114.00s]:  Okay.
+[114.00s - 115.00s]:  Okay.
+[115.00s - 116.00s]:  Okay.
+[116.00s - 117.00s]:  Let me get the fire department on the line.
+[117.00s - 118.00s]:  On the line.
+[118.00s - 124.00s]:  Fire department, what is the address of your emergency?
+[124.00s - 128.00s]:  Obey Slaughter lane, next to the highway.
+[128.00s - 132.00s]:  Okay, one second please.
+[132.00s - 135.00s]:  It's around the U-Haul.
+[135.00s - 137.00s]:  Okay, what is going on there?
+[137.00s - 139.00s]:  So, this guy stole my truck.
+[139.00s - 144.00s]:  He assaulted me and stole my truck and he crashed into 10 cars right now or more.
+[144.00s - 146.00s]:  right now or more.
+[146.00s - 148.00s]:  It looks like we have somebody headed out there.
+[148.00s - 150.00s]:  Let me see, is it a Chevy Tahoe?
+[150.00s - 152.00s]:  A Sonata?
+[152.00s - 154.00s]:  Yeah, he crashed into
+[154.00s - 156.00s]:  around 2500 Blacks.
+[156.00s - 158.00s]:  Okay, yeah, we do have units headed out your
+[158.00s - 160.00s]:  way, okay? Yes sir, thank you.
+[160.00s - 162.00s]:  Did you say somebody stole your truck?
+[162.00s - 164.00s]:  Yeah, they stole the truck, yes sir.
+[164.00s - 166.00s]:  And you followed them? Is that how
+[166.00s - 168.00s]:  you were there?
+[168.00s - 170.00s]:  Yeah, he assaulted me and it was in the
+[170.00s - 172.00s]:  gas station. It was in the gas
+[172.00s - 174.00s]:  station, he stole my truck,
+[174.00s - 176.00s]:  assaulted me and he just took off.
+[176.00s - 178.00s]:  Okay, PD, are you on the line with us?
+[178.00s - 180.00s]:  PD?
+[180.00s - 182.00s]:  Yes, I am on the line.
+[182.00s - 184.00s]:  Okay, were you getting any of that?
+[184.00s - 186.00s]:  Are you guys sending out messages?
+[186.00s - 188.00s]:  Yes, we are sending out on that, but I do
+[188.00s - 190.00s]:  need to speak with you. I do have additional
+[190.00s - 192.00s]:  questions once the fire department is done.
+[192.00s - 194.00s]:  Sir, the cops are here.
+[196.00s - 198.00s]:  Okay, you said the police are there?
+[198.00s - 200.00s]:  Okay, go ahead and speak with the officers then I'll let you go.
+[200.00s - 202.00s]:  Okay.
+[202.00s - 204.00s]:  Alright, thank you.
+[204.00s - 206.00s]:  We do have fire department as well.
+[206.00s - 208.00s]:  Thank you.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+
+Give the output in a csv file named 911 Call Audio 3 -  June 17, 2024 [_1kOjO18P60]_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].

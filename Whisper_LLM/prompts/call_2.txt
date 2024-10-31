@@ -1,0 +1,20 @@
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+
+[0.00s - 8.60s]:  Monday, 2-20-2006 at 5-59 p.m.
+[11.24s - 12.92s]:  Emergency number, one word, the Bible.
+[15.24s - 17.06s]:  My mama had cancer.
+[18.44s - 19.32s]:  You're over there on spruce.
+[20.04s - 20.24s]:  Huh?
+[20.46s - 21.16s]:  You're on spruce.
+[22.38s - 23.06s]:  My mama.
+[23.46s - 24.60s]:  Where's Mr. Turner at?
+[25.52s - 26.34s]:  Right here.
+[26.84s - 27.64s]:  Let me speak to him.
+[27.64s - 31.68s]:  She's not going to talk.
+[32.16s - 34.94s]:  Okay, well, I'm going to send the police to your house and find out what's going on with you.
+[35.64s - 37.20s]:  1-9-5-0, spruce.
+[38.56s - 39.28s]:  Apartment 3.
+
+Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
+
+Give the output in a csv file named call_2_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].

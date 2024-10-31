@@ -1,0 +1,67 @@
+start_time,end_time,speaker,phrase
+0.0,5.0,911 Operator,"Austin, did you please fire EMS and mental health services?"
+5.0,10.0,911 Operator,"Austin, did you please fire EMS and mental health services?"
+10.0,15.0,Caller,"No, they stole my truck and they fucking crashed into it right now."
+15.0,17.0,911 Operator,Who did this?
+17.0,21.0,911 Operator,"Wait, they stole your truck and crashed your truck? Is that what you're saying?"
+21.0,23.0,Caller,"Yes, yes."
+23.0,27.0,911 Operator,"Okay, where is the address in your center section that you're at right now?"
+27.0,32.0,Caller,It's right here on Slaughter Lane. Motherfucker.
+32.0,35.0,911 Operator,Slaughter and what?
+35.0,39.0,Caller,Slaughter and I-35.
+39.0,42.0,Caller,Fuck.
+42.0,45.0,911 Operator,Do you have the camera?
+45.0,46.0,Caller,I saw that.
+46.0,50.0,911 Operator,"Okay, is it on 35, the northbound side or the southbound side?"
+50.0,53.0,Caller,I'm trying to fight people in the middle of the street.
+53.0,56.0,911 Operator,Is it on the northbound side or the southbound side?
+56.0,57.0,Caller,Southbound.
+57.0,59.0,911 Operator,"Okay, what is the address?"
+59.0,62.0,Caller,What are you asking? I'm sorry.
+62.0,67.0,911 Operator,"Is it on the northbound? Go ahead, you said 100 East Slaughter?"
+67.0,71.0,Caller,"Yeah, that's the intersection."
+71.0,79.0,Caller,It is on the I-35 on the next to the U-Haul.
+79.0,84.0,Caller,"I don't know if it's north or south, but yeah."
+84.0,86.0,911 Operator,"Okay, so it was in just a moment."
+86.0,89.0,911 Operator,Is there more than one vehicle involved?
+89.0,94.0,Caller,He crashed at least 10 cars right now.
+94.0,101.0,911 Operator,"Okay, so you said it crashed into about 10 cars?"
+101.0,103.0,Caller,Yeah.
+103.0,110.0,911 Operator,"Okay, bear with me just a moment."
+110.0,111.0,Caller,Okay.
+111.0,112.0,Caller,Okay.
+112.0,113.0,Caller,Okay.
+113.0,114.0,Caller,Okay.
+114.0,115.0,Caller,Okay.
+115.0,116.0,Caller,Okay.
+116.0,117.0,911 Operator,Let me get the fire department on the line.
+117.0,118.0,Unknown,On the line.
+118.0,124.0,Fire Department,"Fire department, what is the address of your emergency?"
+124.0,128.0,Caller,"Obey Slaughter lane, next to the highway."
+128.0,132.0,Fire Department,"Okay, one second please."
+132.0,135.0,Caller,It's around the U-Haul.
+135.0,137.0,Fire Department,"Okay, what is going on there?"
+137.0,144.0,Caller,"So, this guy stole my truck. He assaulted me and stole my truck and he crashed into 10 cars right now or more."
+144.0,146.0,Caller,right now or more.
+146.0,148.0,Fire Department,It looks like we have somebody headed out there.
+148.0,150.0,Fire Department,"Let me see, is it a Chevy Tahoe?"
+150.0,152.0,Caller,A Sonata?
+152.0,154.0,Caller,"Yeah, he crashed into"
+154.0,156.0,Caller,around 2500 Blacks.
+156.0,158.0,Fire Department,"Okay, yeah, we do have units headed out your"
+158.0,160.0,Fire Department,"way, okay? Yes sir, thank you."
+160.0,162.0,911 Operator,Did you say somebody stole your truck?
+162.0,164.0,Caller,"Yeah, they stole the truck, yes sir."
+164.0,168.0,911 Operator,And you followed them? Is that how you were there?
+168.0,176.0,Caller,"Yeah, he assaulted me and it was in the gas station. It was in the gas station, he stole my truck, assaulted me and he just took off."
+176.0,178.0,911 Operator,"Okay, PD, are you on the line with us?"
+178.0,180.0,Police Department,PD?
+180.0,182.0,Police Department,"Yes, I am on the line."
+182.0,192.0,911 Operator,"Okay, were you getting any of that? Are you guys sending out messages?"
+192.0,194.0,Caller,"Sir, the cops are here."
+196.0,198.0,911 Operator,"Okay, you said the police are there?"
+198.0,200.0,911 Operator,"Okay, go ahead and speak with the officers then I'll let you go."
+200.0,202.0,Caller,Okay.
+202.0,204.0,Caller,"Alright, thank you."
+204.0,206.0,911 Operator,We do have fire department as well.
+206.0,208.0,Caller,Thank you.
