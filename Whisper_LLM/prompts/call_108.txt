@@ -1,73 +1,61 @@
-You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments in the format [start_time], [end_time], [phrase]:
 
-[0.00s - 12.04s]:  Conversation recorded on January 1st, 2011 at 10.57 on channel 29.
-[18.44s - 22.56s]:  911 operator 1343, where is your emergency?
-[23.48s - 26.88s]:  I'm here at the police station, Monroe Falls.
-[27.44s - 27.92s]:  Okay.
-[28.92s - 29.24s]:  Yeah.
-[29.24s - 29.88s]:  What's wrong?
-[31.00s - 32.76s]:  I killed my sister.
-[33.20s - 34.10s]:  I'm turning myself in.
-[35.12s - 36.50s]:  Where did it happen at?
-[36.98s - 37.68s]:  At my house.
-[37.90s - 38.68s]:  Where do you live at?
-[39.38s - 40.94s]:  247 Monroe Falls Avenue.
-[41.96s - 43.02s]:  How'd you kill her?
-[43.76s - 44.60s]:  I strangled her.
-[46.64s - 47.98s]:  What apartment number?
-[48.90s - 50.62s]:  247 Monroe Falls.
-[51.84s - 53.22s]:  When did you do this?
-[53.96s - 55.20s]:  I just did it this morning.
-[56.06s - 56.96s]:  How old's your sister?
-[57.38s - 58.50s]:  She's 32.
-[60.00s - 62.00s]:  How did you strangle her?
-[62.00s - 67.00s]:  I just, I got angry and I strangled her.
-[67.00s - 68.00s]:  We had an argument.
-[68.00s - 75.00s]:  She said she's gonna hurt my mom and everything and she's about to hurt my mom and everything
-[75.00s - 78.00s]:  and I just lost it.
-[78.00s - 81.00s]:  What's your last name, hon?
-[81.00s - 82.00s]:  Hanley.
-[82.00s - 83.00s]:  Hanley?
-[83.00s - 84.00s]:  Yeah, A-P-N-L-Y.
-[84.00s - 85.00s]:  What's your last name?
-[85.00s - 86.00s]:  Hanley.
-[86.00s - 87.00s]:  Hanley?
-[87.00s - 88.00s]:  Yeah.
-[88.00s - 89.00s]:  What's your last name?
-[89.00s - 90.00s]:  Hanley.
-[90.00s - 94.00s]:  Do you have your, is this your cell phone that you're calling on?
-[94.00s - 97.00s]:  Yes, I'm here at the police station at Monroe Falls.
-[97.00s - 98.00s]:  Okay.
-[112.00s - 113.00s]:  You okay?
-[115.00s - 116.00s]:  Are you okay?
-[117.00s - 118.00s]:  What's your first name?
-[118.00s - 119.00s]:  Larry.
-[120.00s - 122.00s]:  Your first name's Larry?
-[122.00s - 123.00s]:  Yes.
-[123.00s - 125.00s]:  Okay, Larry, I'm just gonna keep you on the line.
-[125.00s - 129.00s]:  Yeah, I'm, I'm, I'm, I'm frantic, I'm just panicked.
-[129.00s - 132.00s]:  I've just lost it.
-[132.00s - 133.00s]:  Okay.
-[133.00s - 136.00s]:  Are you on any medication of any sort?
-[136.00s - 139.00s]:  I was, yeah, I was taking my Steridol and stuff like that.
-[139.00s - 142.00s]:  What's that for, hon?
-[142.00s - 144.00s]:  What's that for?
-[144.00s - 145.00s]:  What's that for?
-[145.00s - 146.00s]:  I don't know.
-[146.00s - 147.00s]:  I'm taking my meds.
-[147.00s - 148.00s]:  I don't know.
-[148.00s - 148.60s]:  Is this your bed?
-[155.92s - 158.96s]:  I'm gonna go call the police.
-[166.00s - 168.00s]:  Okay, we got the BTS.
-[168.00s - 169.00s]:  Yeah.
-[169.00s - 169.96s]:  You can call him.
-[169.96s - 170.96s]:  Yeah.
-[170.96s - 172.96s]:  Okay, I'm gonna go call the police.
-[172.96s - 174.00s]:  Okay.
-[174.00s - 175.00s]:  This is some good stuff.
-[175.00s - 176.00s]:  Thank you.
-[176.00s - 177.00s]:  Thank you.
+0.00,12.04, Conversation recorded on January 1st, 2011 at 10.57 on channel 29.
+18.44,22.56, 911 operator 1343, where is your emergency?
+23.48,26.88, I'm here at the police station, Monroe Falls.
+27.44,27.92, Okay.
+28.92,29.24, Yeah.
+29.24,29.88, What's wrong?
+31.00,32.76, I killed my sister.
+33.20,34.10, I'm turning myself in.
+35.12,36.50, Where did it happen at?
+36.98,37.68, At my house.
+37.90,38.68, Where do you live at?
+39.38,40.94, 247 Monroe Falls Avenue.
+41.96,43.02, How'd you kill her?
+43.76,44.60, I strangled her.
+46.64,47.98, What apartment number?
+48.90,50.62, 247 Monroe Falls.
+51.84,53.22, When did you do this?
+53.96,55.20, I just did it this morning.
+56.06,56.96, How old's your sister?
+57.38,58.50, She's 32.
+60.00,61.70, How old's your sister?
+61.70,63.34, I have two children.
+63.34,65.74, She and my dad lost a lot of weight.
+67.08,68.14, How did you do it?
+68.14,70.84, I got in hell.
+72.02,75.86, And I really burn myself with it.
+75.86,87.58, They isn't
+87.58,88.12, Bitcoin.
+88.12,88.70, Takers are better than guns.
+88.70,90.00, They burn people alive.
+90.00,93.80, Do you have your, is this your cell phone that you're calling on?
+94.26,95.76, Yes, I'm here at the police station.
+96.64,97.42, Monroe Falls.
+97.84,98.14, Okay.
+108.52,109.52, Yes, we're here.
+112.20,113.06, You okay?
+115.22,116.20, Are you okay?
+116.80,117.84, What's your first name?
+118.58,118.98, Larry.
+120.00,121.20, Your first name's Larry?
+121.68,122.12, Yes.
+123.02,125.10, Okay, Larry, I'm just going to keep you on the line.
+125.78,127.64, Yeah, I'm, I'm, I'm, I'm frantic.
+127.80,128.62, I'm just panicked.
+129.54,130.96, I just lost it.
+131.78,132.18, Okay.
+133.50,135.90, Are you on any medication of any sort?
+136.68,138.76, I was, yeah, I was taking my steroid on and stuff like that.
+139.02,139.96, What's that for, hon?
+142.54,143.40, What's that for?
+143.40,143.44, What's that for?
+146.30,147.66, Okay, you might need to go second.
+150.00,151.00, Okay.
+165.76,166.60, End of recording.
 
 Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
 
-Give the output in a csv file named call_108.csv with this column format: [start_time], [end_time], [speaker], [phrase].
+Give the output in a csv file named call_108_whisper_llm.csv.
+ With this column format: [start_time], [end_time], [speaker], [phrase]

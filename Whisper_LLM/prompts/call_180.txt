@@ -1,39 +1,42 @@
-You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments in the format [start_time], [end_time], [phrase]:
 
-[0.00s - 10.00s]:  911, do you need police, fire, ambulance?
-[10.00s - 11.00s]:  Oh, police.
-[11.00s - 13.00s]:  Where do you need the police at?
-[13.00s - 16.00s]:  I want to tell you what's happening first. I just killed my wife.
-[16.00s - 21.00s]:  I didn't know where you're at, where you need the police at, so I can transfer you to them.
-[21.00s - 24.00s]:  Oh, I'm at 187 Gull Drive.
-[24.00s - 27.00s]:  187 Gull Drive, is this a house or an apartment?
-[27.00s - 29.00s]:  It's a trailer.
-[29.00s - 32.00s]:  Stay on the line one moment for the Elyria Police.
-[32.00s - 34.00s]:  I'm not staying long, so...
-[34.00s - 38.00s]:  Stay on the line for the Elyria Police. Calling from 309-5069.
-[38.00s - 40.00s]:  Yup.
-[40.00s - 42.00s]:  Elyria Police Department.
-[42.00s - 45.00s]:  Yeah, I... Hello?
-[45.00s - 47.00s]:  Yes, Elyria Police Department.
-[47.00s - 49.00s]:  I just, uh...
-[49.00s - 53.00s]:  Your phone is cutting out. I'm only hearing about every second word. What's going on?
-[53.00s - 56.00s]:  I don't know. I'm... Hello?
-[56.00s - 58.00s]:  Elyria Police Department.
-[58.00s - 59.00s]:  Hello?
-[59.00s - 62.00s]:  Let me call you back.
-[62.00s - 64.00s]:  You have a 911 emergency.
-[64.00s - 68.00s]:  Elyria Police Department.
-[68.00s - 70.00s]:  Hello?
-[70.00s - 72.00s]:  Elyria Police Department.
-[72.00s - 74.00s]:  Hello?
-[74.00s - 76.00s]:  Hello?
-[76.00s - 78.00s]:  Hello?
-[78.00s - 80.00s]:  Hello?
-[80.00s - 82.00s]:  Hello?
-[82.00s - 84.00s]:  Hello?
-[84.00s - 86.00s]:  Hello?
-[86.00s - 88.00s]:  Hello?
+0.00,10.00, 911, do you need police, fire, ambulance?
+10.00,11.00, Oh, police.
+11.00,13.00, Where do you need the police at?
+13.00,16.00, I want to tell you what's happening first. I just killed my wife.
+16.00,21.00, I didn't know where you're at, where you need the police at, so I can transfer you to them.
+21.00,24.00, Oh, I'm at 187 Gull Drive.
+24.00,27.00, 187 Gull Drive, is this a house or an apartment?
+27.00,29.00, It's a trailer.
+29.00,32.00, Stay on the line one moment for the Elyria Police.
+32.00,34.00, I'm not staying long, so...
+34.00,38.00, Stay on the line for the Elyria Police. Calling from 309-5069.
+38.00,40.00, Yup.
+40.00,42.00, Elyria Police Department.
+42.00,45.00, Yeah, I... Hello?
+45.00,47.00, Yes, Elyria Police Department.
+47.00,49.00, I just, uh...
+49.00,53.00, Your phone is cutting out. I'm only hearing about every second word. What's going on?
+53.00,56.00, I don't know. I'm... Hello?
+56.00,58.00, Elyria Police Department.
+58.00,59.00, Hello?
+59.00,62.00, Let me call you back.
+62.00,64.00, You have a 911 emergency.
+64.00,66.00, Elyria Police Department.
+66.00,68.00, Hello?
+68.00,70.00, Hello?
+70.00,72.00, Elyria Police Department.
+72.00,74.00, Hello?
+74.00,76.00, Hello?
+76.00,78.00, Hello?
+78.00,80.00, Hello?
+80.00,82.00, Hello?
+82.00,84.00, Hello?
+84.00,86.00, Hello?
+86.00,88.00, Hello?
 
 Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
 
-Give the output in a csv file named call_180.csv with this column format: [start_time], [end_time], [speaker], [phrase].
+Give the output in a csv file named call_180_whisper_llm.csv.
+With this column format: [start_time], [end_time], [speaker], [phrase]
+Output the csv file and nothing else

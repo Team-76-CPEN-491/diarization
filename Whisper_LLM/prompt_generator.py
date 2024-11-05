@@ -30,14 +30,17 @@ def generate_prompt_string(segments, audio_name):
     prompt = (
         "You are analyzing a 911 emergency audio call. Identify the different speakers "
         "in the conversation below. If possible, label each segment with the speaker, "
-        "using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:\n\n"
+        "using '911 Operator', 'Caller', or 'Narrator'. Here are the segments in the format [start_time], [end_time], [phrase]:\n\n"
     )
 
     for segment in segments:
-        prompt += f"[{segment['start']:.2f}s - {segment['end']:.2f}s]: {segment['text']}\n"
+        prompt += f"{segment['start']:.2f},{segment['end']:.2f},{segment['text']}\n"
 
     prompt += "\nLabel each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.\n"
-    prompt += f"\nGive the output in a csv file named {audio_name}_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].\n"
+    prompt += f"\nGive the output in a csv file named {audio_name}_whisper_llm.csv."
+    prompt += f"\nWith this column format: [start_time], [end_time], [speaker], [phrase]"
+    prompt += f"\nOutput the csv file and nothing else"
+
     return prompt
 
 def save_prompt_to_file(audio_name, prompt):

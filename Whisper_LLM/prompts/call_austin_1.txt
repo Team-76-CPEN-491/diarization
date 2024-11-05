@@ -1,101 +1,84 @@
-You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments:
+You are analyzing a 911 emergency audio call. Identify the different speakers in the conversation below. If possible, label each segment with the speaker, using '911 Operator', 'Caller', or 'Narrator'. Here are the segments in the format [start_time], [end_time], [phrase]:
 
-[0.00s - 6.00s]:  Austin 911, do you need police, fire, EMS, or health services?
-[6.00s - 11.00s]:  Hello, what address?
-[11.00s - 22.00s]:  I was at a light on 290 and Cameron Road. It's like on the corner. There's a guy. He crashed. He crashed into some other people, but I guess he took off down the street.
-[22.00s - 30.00s]:  And he has an NR15 on him. He's like at the light, like swinging it everywhere, pointing at people. I had to, I took off, I took off under the light.
-[30.00s - 32.00s]:  Where is he right now?
-[32.00s - 41.00s]:  He's on Cameron Road and 290 with no shirt. He's bald. He has like a bandana around his neck and he has an M60.
-[41.00s - 44.00s]:  Okay, what side on 290 is this?
-[44.00s - 48.00s]:  It's on the left side crossing. Excuse me?
-[48.00s - 51.00s]:  Is this the high school side or on?
-[52.00s - 63.00s]:  No, it's like on, it's on the other side. It's on the other side by the kip. You know, there's a kip next to a Wendy's and a 7-Eleven or a Shell. It's a store.
-[63.00s - 65.00s]:  A kip?
-[65.00s - 70.00s]:  Yes, there's a kip on Cameron Road and 290.
-[70.00s - 75.00s]:  Okay, do you mean Cameron Road and 183?
-[75.00s - 78.00s]:  What is this? Yes, it's 183. I'm sorry. Yes, it's 183.
-[78.00s - 79.00s]:  That's okay.
-[79.00s - 81.00s]:  Cameron, Cameron Road and 183.
-[81.00s - 82.00s]:  I'm just wondering.
-[82.00s - 83.00s]:  I'm just wondering.
-[83.00s - 92.00s]:  I'm just worried because he took off on those people and like they were hurt really bad but I told him to leave because he was literally mad and he was pointing the gun at everybody. I have to fix the red light.
-[92.00s - 97.00s]:  Okay and where, do you know where he is now? Is that what you were saying?
-[97.00s - 111.00s]:  He's at the light. He's at the light on, on the, I would say on the right side of 183. It's right in front of a store. I think it's a 7-Eleven or a Shell by a Wendy's.
-[111.00s - 112.64s]:  It's right in front of Kitts.
-[112.64s - 113.00s]:  Cool.
-[115.60s - 116.70s]:  So he's at the shell?
-[118.02s - 120.76s]:  Yes, like in front of the shell, at the light.
-[120.92s - 127.26s]:  Literally, like, where you tend to go to the left on 183.
-[127.36s - 128.26s]:  He's, like, at a light.
-[129.44s - 130.96s]:  Okay, is he in his vehicle?
-[132.48s - 138.08s]:  No, he left the vehicle on the other side of the highway, of the freeway, I mean.
-[138.46s - 140.84s]:  He, like, walked and he just stayed at the light.
-[142.00s - 143.54s]:  Okay, and what color shirt is he wearing?
-[144.80s - 145.76s]:  He's not wearing a shirt.
-[145.90s - 149.56s]:  He has no shirt, the M16 on his hand, and he's bald.
-[149.72s - 151.48s]:  He has a bandana around his neck.
-[152.36s - 153.86s]:  Is he Hispanic male?
-[155.20s - 157.48s]:  Yes, I think he was, or he might be black.
-[157.56s - 158.06s]:  I'm not sure.
-[158.18s - 158.88s]:  It's dark outside.
-[159.00s - 159.62s]:  He's Mexican.
-[160.32s - 161.40s]:  And he said he's Hispanic.
-[162.40s - 163.22s]:  And he said he's bald?
-[164.40s - 165.24s]:  Yes, he's bald.
-[165.44s - 166.68s]:  He's, like, bald.
-[167.26s - 168.22s]:  Did you see what color bottoms?
-[170.22s - 170.62s]:  Black.
-[171.00s - 171.36s]:  Black.
-[175.26s - 176.36s]:  Are they pants or shorts?
-[178.00s - 178.66s]:  Excuse me?
-[179.06s - 180.04s]:  Are they pants or shorts?
-[180.68s - 181.44s]:  They're pants.
-[181.76s - 183.04s]:  And he's wearing black shoes.
-[184.60s - 185.46s]:  And what is your name?
-[185.60s - 186.38s]:  Okay, and he's waving.
-[186.38s - 190.98s]:  I think he was, he was, he was waving the gun around, and he was, the other guys that
-[190.98s - 194.50s]:  left from the other truck that he had crashed into, they were hurt, like, really bad, but
-[194.50s - 196.56s]:  I told them to leave because he looked really angry.
-[196.56s - 200.52s]:  And I guess he was the one driving, like, a sand-colored van.
-[201.00s - 201.70s]:  I don't know.
-[201.70s - 204.26s]:  It's literally, it crashed into a pool.
-[204.26s - 206.94s]:  Like, it's literally on the middle of the road.
-[207.02s - 210.24s]:  It's blocking the, the, I don't know why y'all haven't got any calls or I don't know if
-[210.24s - 212.08s]:  there's anybody that picked them up but it's blocking the road.
-[212.14s - 216.82s]:  Yeah, we have, we have, we actually have an officer on scene right there right now.
-[217.32s - 222.20s]:  And so you're already gone, correct?
-[223.76s - 228.44s]:  He took off because I had my son with me, and I wasn't taking any chances, like, he
-[228.44s - 230.86s]:  was waving the gun and pointing it at the cars that were at the light.
-[230.86s - 231.48s]:  I took off.
-[232.54s - 232.78s]:  Okay.
-[233.00s - 234.22s]:  And when was the last time you saw him?
-[234.26s - 234.88s]:  About how long ago?
-[236.34s - 238.70s]:  Like about 10 minutes ago, he was still there.
-[238.80s - 242.56s]:  He was like drunk, like yelling at people and pointing the gun.
-[242.56s - 245.14s]:  He was aiming the gun up and down and at the cars.
-[246.20s - 248.00s]:  He was literally just at the light waiting.
-[248.60s - 249.88s]:  And what kind of gun did you say it was?
-[250.90s - 252.26s]:  It was an M16.
-[253.62s - 256.14s]:  An M16 rifle turned around and said,
-[256.24s - 258.64s]:  You said, and as a Nancy?
-[260.86s - 261.18s]:  Yes.
-[261.80s - 262.20s]:  M.
-[262.64s - 263.24s]:  I mean M.
-[263.84s - 264.48s]:  M as in Mary?
-[265.40s - 265.84s]:  Yes.
-[269.36s - 269.80s]:  Okay.
-[272.98s - 273.52s]:  All right.
-[273.56s - 274.72s]:  Well, thank you for giving us a call.
-[275.96s - 277.92s]:  We do have a call over there right now.
-[278.86s - 279.14s]:  Okay.
-[279.24s - 279.80s]:  Yeah, that's fine.
-[279.90s - 283.76s]:  I'm just worried because you never know what could happen other than that.
-[284.48s - 285.44s]:  Thank you so much.
-[285.90s - 286.44s]:  Yeah, you're welcome.
-[287.16s - 287.44s]:  All right.
-[287.50s - 287.74s]:  Bye-bye.
-[287.96s - 288.26s]:  Bye-bye.
+0.00,6.00, Austin 911, do you need police, fire, EMS, or health services?
+6.00,11.00, Hello, what address?
+11.00,22.00, I was at a light on 290 and Cameron Road. It's like on the corner. There's a guy. He crashed. He crashed into some other people, but I guess he took off down the street.
+22.00,30.00, And he has an NR15 on him. He's like at the light, like swinging it everywhere, pointing at people. I had to, I took off, I took off under the light.
+30.00,32.00, Where is he right now?
+32.00,41.00, He's on Cameron Road and 290 with no shirt. He's bald. He has like a bandana around his neck and he has an M60.
+41.00,44.00, Okay, what side on 290 is this?
+44.00,48.00, It's on the left side crossing. Excuse me?
+48.00,51.00, Is this the high school side or on?
+52.00,63.00, No, it's like on, it's on the other side. It's on the other side by the kip. You know, there's a kip next to a Wendy's and a 7-Eleven or a Shell. It's a store.
+63.00,65.00, A kip?
+65.00,70.00, Yes, there's a kip on Cameron Road and 290.
+70.00,75.00, Okay, do you mean Cameron Road and 183?
+75.00,78.00, What is this? Yes, it's 183. I'm sorry. Yes, it's 183.
+78.00,79.00, That's okay.
+79.00,81.00, Cameron, Cameron Road and 183.
+81.00,82.00, I'm just wondering.
+82.00,83.00, I'm just wondering.
+83.00,92.00, I'm just worried because he took off on those people and like they were hurt really bad but I told him to leave because he was literally mad and he was pointing the gun at everybody. I have to fix the red light.
+92.00,96.00, Okay, and where, do you know where he is now? Is that where you're saying?
+96.00,111.00, He's at the light. He's at the light on the, I would say on the right side of 183. It's right in front of a store. I think it's a 7-Eleven or Shell by a Wendy's.
+111.00,113.00, It's right in front of Kip's school.
+113.00,117.00, So he's at the Shell?
+117.00,128.00, Yes, like on, in front of the Shell at the light. Literally like where the two, where you turn to go to the left on 183. He's like at a light.
+128.00,131.00, Okay, is he in his vehicle?
+131.00,136.00, No, he left the vehicle on the other side of the highway, of the freeway I mean. He like walked and he just stayed at the light.
+136.00,137.00, Okay.
+137.00,138.00, He just stayed at the light.
+138.00,139.00, Okay.
+139.00,140.00, Okay.
+140.00,142.00, He just stayed at the light.
+142.00,145.00, Okay. And what color shirt is he wearing?
+145.00,152.00, He's not wearing a shirt. He has no shirt, the M-16 on his hand and he's bald. He has a bandana around his neck.
+152.00,155.00, Is he Hispanic male?
+155.00,161.00, Yes, I think he was. Or he might be black. I'm not sure. It's dark outside. He's Mexican probably.
+161.00,162.00, And he said...
+162.00,163.00, Christian, Christianic.
+163.00,165.00, And he said he's bald?
+165.00,167.00, Yes, he's bald. He's like bald.
+167.00,169.00, Did you see what color bottoms?
+170.00,171.00, Black.
+171.00,176.00, Are they pants or shorts?
+176.00,178.00, Excuse me?
+178.00,180.00, Are they pants or shorts?
+180.00,183.00, They're pants. And he's wearing black shoes.
+183.00,186.00, And what is your name? Okay, and he's waving.
+186.00,196.00, I think he was, he was, he was waving the gun around and he was like... The other guys that left from the other truck that he had crossed into, they were hurt like really bad, but I told them to leave because he looked really angry.
+196.00,199.00, And he, I guess he was the one driving like a sand-colored truck.
+199.00,200.00, Oh, the one that got sentimental?
+200.00,203.00, The one that was like a, like a sand-colored van?
+203.00,204.00, It crashed into a pool.
+204.00,205.00, Like it's literally on the middle of the road.
+205.00,206.00, It's blocking the road.
+206.00,207.00, I don't know why you haven't got any calls.
+207.00,210.00, I don't know if there's anybody that picked them up but it's blocking the road.
+210.00,213.00, Well, yeah, we have, we have, um, we actually have an officer on scene right there right now.
+213.00,214.00, Um, let's see.
+214.00,215.00, And so you're already gone, correct?
+215.00,216.00, Yeah.
+216.00,217.00, I am already gone.
+217.00,218.00, You took off because I have my son with me and I wasn't taking any chances.
+218.00,219.00, Yeah.
+219.00,220.00, He was waving the gun and pointing it at me.
+220.00,221.00, Yeah.
+221.00,222.00, I'm just, you know, this is just nuts, right?
+222.00,223.00, I'm just...
+223.00,224.00, I'm just going to leave him right there somewhere.
+229.00,234.40, the cars that were at the light so I took off. Okay and when was the last time you saw him about
+234.40,241.04, how long ago? Like about 10 minutes ago he was still there he was like drunk like yelling at
+241.04,247.16, people and pointing the gun he was aiming the gun up and down and at the cars. He was literally just
+247.16,255.42, at the light waiting. And what kind of gun did you say it was? It was a M16, an M16 rifle turned
+255.42,269.80, around and a M16. You said N as in Nancy? Yes M I mean M. M as in Mary? Yes. Okay.
+272.94,279.36, All right well thank you for giving us a call. We do have help over there right now. Okay yeah
+279.36,284.02, that's fine I was I'm just worried because you never know what could happen other than that then.
+284.46,285.40, Thank you so much.
+285.42,287.76, Yeah you're welcome. All right bye-bye.
 
 Label each segment with the corresponding speaker. If unsure, mark it as 'Unknown'.
 
-Give the output in a csv file named 9-1-1 Call 3 [IP3b6zOW1p8]_whisper_llm.csv with this column format: [start_time], [end_time], [speaker], [phrase].
+Give the output in a csv file named call_austin_1_whisper_llm.csv.
+With this column format: [start_time], [end_time], [speaker], [phrase]
+Output the csv file and nothing else
