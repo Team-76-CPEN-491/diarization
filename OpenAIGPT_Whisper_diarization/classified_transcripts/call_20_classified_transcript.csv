@@ -1,0 +1,63 @@
+start_time,end_time,speaker,phrase
+0.00, 1.44, 911 Operator, Are you out of the house yet?
+1.96, 2.40, Caller, No.
+2.64, 3.64, 911 Operator," All right, get out of the house."
+4.00, 4.74, Caller, We can't.
+6.00, 7.24, Caller, There's nothing open.
+7.30, 8.98, Caller," If I open the door, it's too much smoke."
+9.10, 9.40, 911 Operator, Okay.
+9.98, 10.64, 911 Operator, All right.
+11.40, 12.06, 911 Operator, What's your name?
+12.66, 13.02, Caller, Huh?
+13.22, 13.78, 911 Operator, What's your name?
+13.86, 14.02, 911 Operator, Quick.
+14.46, 15.34, Caller, I'm DJ Fry.
+19.58, 20.28, 911 Operator, All right.
+21.36, 22.78, 911 Operator, Try to get out of the house if you can.
+27.34, 28.22, 911 Operator," Sorry, you still there?"
+28.70, 29.10, Caller, Yes.
+29.10, 30.62, 911 Operator," Okay, I'm going to stay on the phone with you, all right?"
+30.84, 31.20, Caller, Okay.
+33.80, 34.36, 911 Operator, How far?
+34.48, 35.00, Caller, Two traps.
+37.70, 38.06, 911 Operator, Okay.
+38.50, 40.52, 911 Operator," Honey, are you on the first floor or second floor?"
+40.58, 41.20, 911 Operator, Where in the house are you?
+41.20, 41.86, Caller, Second floor.
+41.98, 42.76, 911 Operator, You're on the second floor?
+43.16, 43.52, Caller, Yes.
+43.66, 47.36, 911 Operator," Okay, if I'm looking at your house, you're going to be on the left or the right side?"
+48.40, 50.20, Caller, I'm on the...
+50.20, 51.94, Caller, I'm all the way at the top.
+52.08, 53.12, 911 Operator, You're all the way at the top?
+53.26, 53.52, Caller, Yes.
+53.54, 54.94, 911 Operator," Okay, you're on the second floor."
+55.38, 58.02, 911 Operator," If I come up your stairs, honey, which way do I turn to get to you?"
+58.02, 60.62, Caller, You're up the stairs.
+60.96, 61.28, Caller, Uh-huh.
+61.88, 64.84, Caller, I'm in the room that has the door closed.
+65.08, 66.44, 911 Operator, You're in the room that has the door closed.
+66.48, 67.72, 911 Operator, All the other rooms have doors open?
+68.12, 68.44, Caller, Yes.
+68.60, 68.86, 911 Operator, Okay.
+69.00, 70.62, 911 Operator, Can you get to a window and open your window?
+70.98, 71.30, Caller, Yes.
+71.54, 72.52, 911 Operator, Is the window open now?
+72.80, 73.12, Caller, Yes.
+73.38, 75.70, 911 Operator," Can you see, is it in the front of the house or the back of the house?"
+76.08, 77.16, Caller, I'm in the back.
+77.24, 78.56, Caller, I'm like on the side of the house.
+78.64, 79.14, 911 Operator, Which side?
+79.18, 81.86, 911 Operator," If I'm looking at your house from the front or the right or the left side, sweetie?"
+82.22, 82.96, Caller, I'm on the right.
+83.12, 83.40, 911 Operator, Okay.
+83.60, 84.36, 911 Operator, Hold on one second.
+86.72, 88.00, Unknown, Y'all be careful.
+88.36, 88.82, Unknown, The baby.
+89.18, 89.90, Unknown," Okay, ma'am."
+90.08, 90.42, Unknown, All right.
+91.42, 92.50, 911 Operator," Okay, how many people in the room?"
+93.50, 95.48, Caller," One, two, three, four, five."
+95.68, 96.04, 911 Operator, Five?
+96.30, 97.54, 911 Operator, We got five people in the room?
+97.98, 98.34, Caller, Yes.
